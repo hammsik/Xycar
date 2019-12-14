@@ -74,16 +74,3 @@ if __name__ == '__main__':
     print("-" * 40)
 
     rospy.on_shutdown(test_car.exit)
-
-
-
-
-
-
-
-
-
-
-
-
-
